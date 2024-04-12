@@ -1,0 +1,126 @@
+[
+  {
+    "type": "folder",
+    "title": "folder 1",
+    "id": "1",
+    "children": [
+      {
+        "type": "file",
+        "mimeType": "jpeg",
+        "id": "2",
+        "title": "user_photo"
+      },
+      {
+        "type": "folder",
+        "title": "folder 1 A",
+        "id": "3",
+        "children": [
+          {
+            "type": "file",
+            "title": "user_avatar",
+            "mimeType": "jpg",
+            "id": "44"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "title": "folder 1 B",
+        "id": "4",
+        "children": [
+          {
+            "type": "file",
+            "mimeType": "svg",
+            "title": "calendar",
+            "id": "5"
+          },
+          {
+            "type": "file",
+            "mimeType": "svg",
+            "title": "arrow",
+            "id": "6"
+          },
+          {
+            "type": "file",
+            "mimeType": "svg",
+            "title": "mobile",
+            "id": "7"
+          },
+          {
+            "type": "folder",
+            "title": "folder 1 B(1)",
+            "id": "8",
+            "children": [
+              {
+                "type": "file",
+                "title": "hello",
+                "mimeType": "svg",
+                "id": "22"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "title": "folder 1 C",
+        "id": "9"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "title": "folder 2",
+    "id": "10",
+    "children": [
+      {
+        "type": "file",
+        "mimeType": "jpeg",
+        "title": "user_photo2",
+        "id": "11"
+      },
+      {
+        "type": "folder",
+        "title": "folder 2 A",
+        "id": "12"
+      },
+      {
+        "type": "folder",
+        "title": "folder 2 B",
+        "id": "13",
+        "children": [
+          {
+            "type": "file",
+            "mimeType": "svg",
+            "title": "calendar",
+            "id": "14"
+          },
+          {
+            "type": "file",
+            "mimeType": "svg",
+            "title": "arrow",
+            "id": "15"
+          },
+          {
+            "type": "file",
+            "mimeType": "svg",
+            "title": "mobile",
+            "id": "16"
+          },
+          {
+            "type": "folder",
+            "title": "folder 2 B(2)",
+            "id": "17",
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "title": "folder 2 C",
+        "id": "18",
+        "children": []
+      }
+    ]
+  }
+]
